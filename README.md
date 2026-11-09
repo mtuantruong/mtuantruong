@@ -34,7 +34,7 @@ Always open to trying new tools.
 ### 📫 How to reach me:
 
 Case studies and writing: [tuantruong.fyi](https://tuantruong.fyi)
-LinkedIn: [Minh Tuan Truong](https://www.linkedin.com/in/<your-linkedin-handle>)
+LinkedIn: [Minh Tuan Truong](https://www.linkedin.com/in/mttruong6)
 
 Let's build something awesome together! ✨
 
