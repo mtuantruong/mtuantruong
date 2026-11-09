@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🚀
 
-### About me
+### 🌱 About me
 
 Finance leader who builds. I lead FP&A in B2B software and spend my evenings turning finance and operations workflows into working AI systems.
 
@@ -10,7 +10,7 @@ My focus is practical: less time producing reports, more time steering the busin
 
 Lifelong learner, currently studying AI & Software Development at ETH Zürich. Outside work I enjoy hiking, travelling to new places, and sharing good meals and good laughs with friends and family.
 
-### What I'm building
+### 🔭 What I'm building
 
 | Project | What it does |
 |---|---|
