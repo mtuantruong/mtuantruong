@@ -4,9 +4,9 @@ Welcome to my GitHub profile! 🚀
 
 ### 😄 About me
 
-Finance guy who builds. By day I turn numbers into decisions. By night I turn finance and operations workflows into working AI systems.
-My goal is practical: less time making reports, more time steering the business.
-Lifelong learner, currently studying AI & Software Development at ETH Zürich. When offline, I enjoy hiking, exploring new places, and sharing good food and big laughs with friends and family.
+- Finance guy who builds. By day I turn numbers into decisions. By night I turn finance and operations workflows into working AI systems.
+- My goal is practical: less time making reports, more time steering the business.
+- Lifelong learner, currently studying AI & Software Development at ETH Zürich. When offline, I enjoy hiking, exploring new places, and sharing good food and big laughs with friends and family.
 
 ### 🏗️ What I'm building
 
@@ -33,8 +33,8 @@ Always open to trying new tools.
 
 ### 📫 How to reach me:
 
-Case studies and writing: [tuantruong.fyi](https://tuantruong.fyi)
-LinkedIn: [Minh Tuan Truong](https://www.linkedin.com/in/mttruong6)
+- Case studies and writing: [tuantruong.fyi](https://tuantruong.fyi)
+- LinkedIn: [Minh Tuan Truong](https://www.linkedin.com/in/mttruong6)
 
 Let's build something awesome together! ✨
 
