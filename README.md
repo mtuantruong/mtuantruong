@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🚀
 
-### 😄 About me
+### 🧐 About me
 
 - Finance guy who builds. By day I turn numbers into decisions. By night I turn finance and operations workflows into working AI systems.
 - My goal is practical: less time making reports, more time steering the business.
