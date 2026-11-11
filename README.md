@@ -4,9 +4,10 @@ Welcome to my GitHub profile! 🚀
 
 ### 🧐 About me
 
-- Finance guy who builds. By day I turn numbers into decisions. By night I turn finance and operations workflows into working AI systems.
+- A finance guy who builds. I turn finance and operations workflows into working AI systems.
 - My goal is practical: less time making reports, more time steering the business.
-- Lifelong learner, currently studying AI & Software Development at ETH Zürich. When offline, I enjoy hiking, exploring new places, and sharing good food and big laughs with friends and family.
+- A lifelong learner, curious about new technology. I learn by trying things out.
+- Offline: I enjoy hiking, exploring new places, and sharing good food and big laughs with friends and family.
 
 ### 🏗️ What I'm building
 
@@ -18,13 +19,14 @@ Welcome to my GitHub profile! 🚀
 
 All projects run on one fictional B2B SaaS company with synthetic data. Not real company figures.
 
-### 🔧 Tech Stack & Tools
+### 🔧 Tech Stack & Tools I work with
 
 - **Finance:** VBA, Excel, three-statement modelling
-- **Data analytics:** R
+- **Data analytics:** R, Power BI, SQL
 - **AI engineering:** LLM APIs, RAG, AI and ML implementation
 - **Workflow automation:** n8n, Make, Zapier
-- **Business platforms:** Microsoft 365, Power Platform, Dynamics 365 CRM
+- **Business systems:** SAP S/4HANA, Microsoft 365, Dynamics 365 CRM, Salesforce, HubSpot,  Power Platform
+- **Planning platforms:** Anaplan, Pigment, Jedox
 - **Backend:** Python, pandas
 - **Frontend:** HTML, CSS
 - **Ways of working:** Git and GitHub, Agile
