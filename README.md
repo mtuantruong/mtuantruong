@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 🚀
 
 ### 🧐 About me
 
-- A finance guy who builds. I turn finance and operations workflows into working AI systems.
+- The finance guy who builds. I turn finance and operations workflows into working AI systems.
 - My goal is practical: less time making reports, more time steering the business.
 - A lifelong learner, curious about new technology. I learn by trying things out.
 - Offline: I enjoy hiking, exploring new places, and sharing good food and big laughs with friends and family.
